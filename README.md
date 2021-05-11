@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Deepak Sheoran </h1>
 
-<h3 align="center">A Data Scientist whose passionate about NLP and Computer Vision </h3>
+<h3 align="center">A Data Scientist whose passionate about turning data into actionable insights and meaningful stories and off course NLP <img src="https://huggingface.co/front/assets/huggingface_logo.svg" </h3>
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="aws" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a 
