@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hola <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Deepak Data Sheoran </h1>
+<h1 align="center">Hola <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Deepak Sheoran </h1>
 
 
 
