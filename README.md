@@ -19,6 +19,8 @@ width="50" height="50"/> </a> <a href="https://cloud.google.com" target="_blank"
     </br> 
 </p>  
 
+![](https://komarev.com/ghpvc/?username=sheoran19&color=blue)
+
 <!--
 **sheoran19/sheoran19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
