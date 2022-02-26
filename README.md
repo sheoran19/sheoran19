@@ -19,8 +19,9 @@ width="50" height="50"/> </a> <a href="https://cloud.google.com" target="_blank"
     </br> 
 </p>  
 
-![](https://komarev.com/ghpvc/?username=sheoran19&color=blue)
-
 
 - 🌱 I’m currently learning NLP for Topic Modeling, Text Analysis and Text Classification
 - 💬 Ask me about Data Science, Python & Machine Learning!
+
+
+![](https://komarev.com/ghpvc/?username=sheoran19&color=blue)
